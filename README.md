@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raquel Martínez</h1>
 <h3 align="center">A curious Python Backend Developer from Mexico</h3>
 
-- 🌱 I’m currently learning **Python, SQL, Django, Flask**
+- 🌱 I’m currently learning **Python, SQL, Django y Flask**
 
 - 📫 How to reach me **meztinea.dev@gmail.com**
 
