@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😄, I'm Raquel Martínez</h1>
-<h3 align="center">A curious Python Backend Developer from Mexico</h3>
+<h3 align="center">A curious Software Developer from Mexico</h3>
 <h1> </h1>
 <h3> </h3>
 <h3> </h3>
