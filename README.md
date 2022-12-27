@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Raquel Martínez</h1>
+<h1 align="center">Hi 😄, I'm Raquel Martínez</h1>
 <h3 align="center">A curious Python Backend Developer from Mexico</h3>
+<h1> </h1>
+<h3> </h3>
+<h3> </h3>
 
-- 🌱 I’m currently learning **Python, SQL, Django y Flask**
+- :books: I’m currently learning **Python, SQL, Django y Flask**
 
-- 📫 How to reach me **meztinea.dev@gmail.com**
+- :email: How to reach me **meztinea.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
