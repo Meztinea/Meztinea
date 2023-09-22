@@ -6,8 +6,6 @@
 
 - :books: I’m currently learning **Python, SQL, Django y Flask**
 
-- :email: How to reach me **meztinea.dev@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raqmartinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raqmartinez" height="30" width="40" /></a>
