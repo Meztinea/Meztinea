@@ -1,22 +1,30 @@
-<h1 align="center">Hi 😄, I'm Raquel Martínez</h1>
-<h3 align="center">A curious Software Developer from Mexico</h3>
-<h1> </h1>
-<h3> </h3>
-<h3> </h3>
+<h1 align="center">👋 Hola, soy Raquel Martínez</h1>
 
-- :books: I’m currently learning **Python, SQL, Django y Flask**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raqmartinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raqmartinez" height="30" width="40" /></a>
+<p align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /> 
 </p>
 
-<h3 align="left">Skills</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=meztinea&show_icons=true&locale=en&layout=compact" alt="meztinea" /></p>
+<p align="center">
+  <h3 align="center">Soy estudiante de Ing. en Desarrollo de Software y me estoy preparando para ser Desarrolladora Java Backend con Spring Boot 🔥</h3>
+</p>
+
+<h3 align="center">Conecta conmigo</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/raqmartinez"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" align="center" />
+  </a>
+</p>
+
+
+<h3 align="center">Estoy aprendiendo</h3>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meztinea&theme=react&line_height=40&hide=Makefile" alt="Lenguajes más usados" />
+</p>
